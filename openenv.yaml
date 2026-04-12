@@ -1,0 +1,6 @@
+name: meta_env
+version: "1.0.0"
+description: "File Organizer AI Environment"
+entry_point: server.app:app
+port: 7860
+build_mode: standalone
